@@ -46,7 +46,7 @@ A full-stack system that monitors water usage in real time. An ESP32 with a flow
 
 **Stack:** Python (FastAPI) · React · JavaScript · MongoDB · Docker · ESP32 (C++)
 
-[View repository](https://github.com/SEU-USUARIO/API_FETIN)
+https://github.com/Miwamma/API_FETIN
 
 ---
 
